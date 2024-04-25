@@ -12,6 +12,6 @@
 
 ### Json files
 
-- inal-results.json, and pre-results.json
+- Final-results.json, and pre-results.json
 
   And other artifacts 
