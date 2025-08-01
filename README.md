@@ -1,7 +1,7 @@
 # Advanced_ML
 
 
-### Please find the following files in this repo
+
 
 - Completed Jupyter notebook
 - Completed main.py file
